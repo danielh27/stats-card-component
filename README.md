@@ -12,10 +12,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot1.png)
+![](./screenshot2.png)
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://danielh27.github.io/stats-card-component/]
 
 ## My process
 
